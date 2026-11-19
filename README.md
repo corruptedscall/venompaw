@@ -17,17 +17,12 @@
       </p>
 　Current Rank -       
  Vntr ㅤㅤㅤㅤ| ㅤㅤㅤㅤVolunteer for Animal Rescue       </p>
- 　Companions equipped - Bunny & Bat  </p>  
-<table>
-    <tr>
-Appointees Count
-    </tr>
-</table>
-    
-<div>
-ㅤㅤ✿ㅤㅤ  Expeditionㅤㅤ Guide (Host Of Paw Event)       
-ㅤㅤ✿ㅤㅤ  Wildlifeㅤㅤ Illustrator (Artist Of Paw)                  
-ㅤㅤ✿ㅤㅤ  Fieldㅤㅤ Coordinator (Linewatcher's Of Paw)         
+ 　Companions equipped - Bunny & Bat  </p>
+         Appointees Count </p>
+
+ ㅤ ✿ㅤㅤ  Expeditionㅤㅤ Guide (Host Of Paw Event)  </p>     
+ㅤㅤ✿ㅤㅤ  Wildlifeㅤㅤ Illustrator (Artist Of Paw)   </p>               
+ㅤㅤ✿ㅤㅤ  Fieldㅤㅤ Coordinator (Linewatcher's Of Paw)  </p>       
     </tr>
   </table>
 </div>
